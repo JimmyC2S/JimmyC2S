@@ -1,10 +1,12 @@
-# 💫 About Me: Jimmy Michalski C2S
-
+# 💫 About Me:Jimmy Michalski C2S
 Je suis passionné par l’informatique depuis de nombreuses années, 25ans dans la maintenance informatique, 6 ans en tantqu’administrateur de réseaux avec 650 machines. <br> J’ai saisi l’opportunité de
 me développer dans un autre domaine du monde digital et de proposer mes services dans la création de sites internet fiables.<br> Aujourd'hui j'apprends différents code afin d'améliorer les services proposés.
 
 🔭 I’m currently working on HTML, CSS, JS,TS<br>🌱 I’m currently learning Angular<br><br>
+
 [![](https://visitcount.itsvg.in/api?id=JimmyC2S&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<p align="center"><img src="https://i.kym-cdn.com/photos/images/original/000/724/213/a8e.gif"> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Firebird#9644) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=1076270507) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmy-michalski-31a42230) 
